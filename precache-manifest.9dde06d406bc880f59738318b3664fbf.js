@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3be9d8cf0145e4423876487fefc161b8",
+    "revision": "c3c84340b0b6a864f56ecc1e13f29939",
     "url": "/bdf-oct-2019-presentation/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bdf-oct-2019-presentation/static/css/2.4cf5f81b.chunk.css"
   },
   {
-    "revision": "2fa72342ddd20b28f4c6",
+    "revision": "a6e8d57ac5c14c11a20a",
     "url": "/bdf-oct-2019-presentation/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bdf-oct-2019-presentation/static/js/2.b55a472c.chunk.js"
   },
   {
-    "revision": "2fa72342ddd20b28f4c6",
-    "url": "/bdf-oct-2019-presentation/static/js/main.9a470b0c.chunk.js"
+    "revision": "a6e8d57ac5c14c11a20a",
+    "url": "/bdf-oct-2019-presentation/static/js/main.1e98cde5.chunk.js"
   },
   {
     "revision": "21f64db9778b0a9877c2",

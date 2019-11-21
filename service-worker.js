@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bdf-oct-2019-presentation/precache-manifest.c552e9ebe131f6acaa80f8e8baccae34.js"
+  "/bdf-oct-2019-presentation/precache-manifest.9dde06d406bc880f59738318b3664fbf.js"
 );
 
 self.addEventListener('message', (event) => {
